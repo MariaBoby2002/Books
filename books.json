@@ -1,0 +1,242 @@
+[
+    {
+        "title": "The Silent Banyan",
+        "publisher": "Penguin Random House",
+        "author": "Ravi Varma",
+        "genre": "Thriller",
+        "pages": 350,
+        "cost": 499
+    },
+    {
+        "title": "Echoes of Independence",
+        "publisher": "HarperCollins India",
+        "author": "Priya Sharma",
+        "genre": "Historical Fiction",
+        "pages": 400,
+        "cost": 599
+    },
+    {
+        "title": "Beyond the Ghats",
+        "publisher": "Westland Books",
+        "author": "Anita Rao",
+        "genre": "Adventure",
+        "pages": 280,
+        "cost": 450
+    },
+    {
+        "title": "The Quantum Riddle",
+        "publisher": "Rupa Publications",
+        "author": "Dr. A. G. Iyer",
+        "genre": "Science Fiction",
+        "pages": 320,
+        "cost": 550
+    },
+    {
+        "title": "Whispers in the Monsoon",
+        "publisher": "Jaico Publishing House",
+        "author": "Sangeeta Nair",
+        "genre": "Romance",
+        "pages": 290,
+        "cost": 480
+    },
+    {
+        "title": "Chanakya's Wisdom",
+        "publisher": "Penguin Random House",
+        "author": "Vikram Bhatia",
+        "genre": "Non-Fiction",
+        "pages": 450,
+        "cost": 650
+    },
+    {
+        "title": "The Lost Temple",
+        "publisher": "HarperCollins India",
+        "author": "Leela Banerjee",
+        "genre": "Adventure",
+        "pages": 310,
+        "cost": 500
+    },
+    {
+        "title": "Mysteries of the Vedas",
+        "publisher": "Rupa Publications",
+        "author": "Dr. Radhika Sen",
+        "genre": "Science",
+        "pages": 500,
+        "cost": 700
+    },
+    {
+        "title": "The Final Yatra",
+        "publisher": "Westland Books",
+        "author": "Arun Menon",
+        "genre": "Science Fiction",
+        "pages": 410,
+        "cost": 600
+    },
+    {
+        "title": "Broken Kites",
+        "publisher": "Jaico Publishing House",
+        "author": "Maya Rao",
+        "genre": "Drama",
+        "pages": 340,
+        "cost": 490
+    },
+    {
+        "title": "A Culinary Expedition",
+        "publisher": "Penguin Random House",
+        "author": "Chef Anil Kapoor",
+        "genre": "Cookbook",
+        "pages": 275,
+        "cost": 520
+    },
+    {
+        "title": "The Digital India",
+        "publisher": "HarperCollins India",
+        "author": "Meera Singh",
+        "genre": "Technology",
+        "pages": 360,
+        "cost": 550
+    },
+    {
+        "title": "The Shadow of the Himalayas",
+        "publisher": "Westland Books",
+        "author": "Arjun Desai",
+        "genre": "Adventure",
+        "pages": 380,
+        "cost": 580
+    },
+    {
+        "title": "The Art of Meditation",
+        "publisher": "Rupa Publications",
+        "author": "Dr. Kavita Joshi",
+        "genre": "Self-Help",
+        "pages": 220,
+        "cost": 400
+    },
+    {
+        "title": "The Enigma of Ashoka",
+        "publisher": "Jaico Publishing House",
+        "author": "Rajesh Malhotra",
+        "genre": "Thriller",
+        "pages": 330,
+        "cost": 510
+    },
+    {
+        "title": "Wonders of Ancient India",
+        "publisher": "Penguin Random House",
+        "author": "Dr. Anjali Gupta",
+        "genre": "History",
+        "pages": 450,
+        "cost": 640
+    },
+    {
+        "title": "The Endless Circle",
+        "publisher": "HarperCollins India",
+        "author": "Nitin Kumar",
+        "genre": "Science Fiction",
+        "pages": 390,
+        "cost": 580
+    },
+    {
+        "title": "Rising from the Dust",
+        "publisher": "Westland Books",
+        "author": "Neha Patel",
+        "genre": "Drama",
+        "pages": 310,
+        "cost": 490
+    },
+    {
+        "title": "The Secret Garden of Jaipur",
+        "publisher": "Rupa Publications",
+        "author": "Amrita Sen",
+        "genre": "Fantasy",
+        "pages": 280,
+        "cost": 450
+    },
+    {
+        "title": "The Philosophy of Dharma",
+        "publisher": "Jaico Publishing House",
+        "author": "Dr. Suresh Mehta",
+        "genre": "Philosophy",
+        "pages": 240,
+        "cost": 420
+    },
+    {
+        "title": "Uncharted Deserts",
+        "publisher": "Penguin Random House",
+        "author": "Rahul Verma",
+        "genre": "Adventure",
+        "pages": 330,
+        "cost": 530
+    },
+    {
+        "title": "The Hidden Truths of Banaras",
+        "publisher": "HarperCollins India",
+        "author": "Pooja Kapoor",
+        "genre": "Mystery",
+        "pages": 290,
+        "cost": 480
+    },
+    {
+        "title": "Stories of the Forgotten",
+        "publisher": "Westland Books",
+        "author": "Amitabh Reddy",
+        "genre": "Historical Fiction",
+        "pages": 370,
+        "cost": 560
+    },
+    {
+        "title": "The Untrodden Path",
+        "publisher": "Rupa Publications",
+        "author": "Lakshmi Devi",
+        "genre": "Self-Help",
+        "pages": 260,
+        "cost": 450
+    },
+    {
+        "title": "The Cosmic Voyage",
+        "publisher": "Jaico Publishing House",
+        "author": "Shankar Rao",
+        "genre": "Science Fiction",
+        "pages": 420,
+        "cost": 610
+    },
+    {
+        "title": "Beneath the Banyan",
+        "publisher": "Penguin Random House",
+        "author": "Nandita Roy",
+        "genre": "Thriller",
+        "pages": 310,
+        "cost": 500
+    },
+    {
+        "title": "The Poet's Soul",
+        "publisher": "HarperCollins India",
+        "author": "Rekha Sharma",
+        "genre": "Poetry",
+        "pages": 150,
+        "cost": 350
+    },
+    {
+        "title": "The Forbidden Palace",
+        "publisher": "Westland Books",
+        "author": "Vikram Singh",
+        "genre": "Fantasy",
+        "pages": 450,
+        "cost": 650
+    },
+    {
+        "title": "The Hidden Passage",
+        "publisher": "Rupa Publications",
+        "author": "Leela Banerjee",
+        "genre": "Adventure",
+        "pages": 390,
+        "cost": 570
+    },
+    {
+        "title": "The Final Journey",
+        "publisher": "Jaico Publishing House",
+        "author": "Arjun Desai",
+        "genre": "Historical Fiction",
+        "pages": 310,
+        "cost": 510
+    }
+]
