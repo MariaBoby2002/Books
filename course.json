@@ -1,0 +1,62 @@
+[
+    {
+        "courseId": "C101",
+        "title":"Introduction to Web Development",
+        "instructor": "John Doe",
+        "duration": "10 hours",
+        "rating":4.5,
+        "category":"Web Development",
+        "price":"50",
+        "enrolled":"2500"
+    },
+    {
+        "courseId": "C102",
+        "title":"Python Programming",
+        "instructor": "Amrutha",
+        "duration": "7 hours",
+        "rating":4,
+        "category":"Python",
+        "price":"100",
+        "enrolled":"500"
+    },
+    {
+        "courseId": "C103",
+        "title":"Introduction to Data Analysis",
+        "instructor": "Santo",
+        "duration": "15 hours",
+        "rating":5,
+        "category":"Python",
+        "price":"1000",
+        "enrolled":"3000"
+    },
+    {
+        "courseId": "C104",
+        "title":"Testing with Selenium",
+        "instructor": "Benny",
+        "duration": "20 hours",
+        "rating":4.5,
+        "category":"Testing",
+        "price":"100",
+        "enrolled":"5000"
+    },
+    {
+        "courseId": "C105",
+        "title":"Service Now",
+        "instructor": "Juby",
+        "duration": "10 hours",
+        "rating":4.5,
+        "category":"Client Relationship Management",
+        "price":"250",
+        "enrolled":"2500"
+    },
+    {
+        "courseId": "C106",
+        "title":"Data mining using R",
+        "instructor": "Lumy",
+        "duration": "10 hours",
+        "rating":4.5,
+        "category":"R",
+        "price":"3000",
+        "enrolled":"200"
+    }
+]
